@@ -1,5 +1,5 @@
 //
-//  RKViewController.h
+//  RKTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Ross Klettke on 6/3/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface RKViewController : UIViewController
+@interface RKTableViewController : UITableViewController
 
 @end
